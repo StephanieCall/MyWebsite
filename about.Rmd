@@ -51,11 +51,11 @@ My other hobbies and interests include video games, programming, and crocheting.
 
 I recently gained an interest in programming after teaching myself Python over the first few months of quarantine at the beginning of this global pandemic. I enjoy how I can customize and create my own code, both for work and to modify video games like Minecraft. It's especially satisfying to create a script that automates data analysis, like my flow cytometry data. I have even created custom scripts for my lab.
 
-[I currently know how to program in Python and R, and I've been using these languages to make scripts. I also know a little about Java because Minecraft is written in Java and it is easy (and common) to modify the game, including through a command line in-game.](images/python_r.jpg)
+![I currently know how to program in Python and R, and I've been using these languages to make scripts. I also know a little about Java because Minecraft is written in Java and it is easy (and common) to modify the game, including through a command line in-game.](images/python_r.jpg)
 
 When I have the time, I also love to crochet. I like to make scarves and hats with a variety of different stitches and patterns for warmth in the wintertime. Additionally, I love to crochet amigurumi, which are small and typically cute stuffed toys like dogs and cats, and larger stuffed toys.
 
-![I've crocheted a small collection of *E. coli* amigurumi, and I hope to one day finally finish making one for each color of the rainbow, plus more. It's quite soothing to just squish them and ](images/crochet_Ecoli.jpeg)
+![I've crocheted a small collection of *E. coli* amigurumi, and I hope to one day finally finish making one for each color of the rainbow, plus more. It's quite soothing to just squish them like a stress ball and toss them around in the air.](images/crochet_Ecoli.jpeg)
 
 ![](images/crochet_gray_cat.png)
 
