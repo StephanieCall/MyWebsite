@@ -1,0 +1,11 @@
+name: "my-website"
+output_dir: 'docs'
+navbar:
+  title: "Stephanie Call's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "EvoGenLab"
+      href: labs.html

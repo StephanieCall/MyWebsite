@@ -1,0 +1,12 @@
+---
+title: "Labs for Evolutionary Genomics and Bioinformatics"
+output: 
+  html_document:
+    theme: 'darkly'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+During Fall 2020, I took a class on Evolutionary Genomics and Bioinformatics at the Univeristy of Massachusetts Amherst under the instruction of Dr. Jeffrey Blanchard, where I learned how to program in R and various bioinformatic workflows. Some of the topics covered in class include GitHub repositories and git version control, data wrangling and visualization using tidyverse in R, Shiny Apps, regular expressions, RNA-seq analysis workflows, phylogenic tree analysis and visualization, and more. Here is a link to the repository website containing the lab reports for class, which are good tutorials and references - https://stephaniecall.github.io/evolutionary-genomics-course/.

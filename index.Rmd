@@ -1,0 +1,8 @@
+---
+title: "Stephanie Call's Website"
+output:
+    html_document:
+        theme: 'darkly'
+---
+
+Hello! Currently, I am a third year graduate student at the University of Massachusetts Amherst in the Andrews Laboratory. This website chronicles what I have done at the University of Massachusetts starting in the Fall of 2020, shortly after I learned Python and just began learning R. Additionally, there is an "About Me" page that describes a little bit about who I am, what I do, and some of my interests.
